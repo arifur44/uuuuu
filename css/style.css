@@ -1,0 +1,86 @@
+{margin: 0px auto;
+}
+body{
+background: url(../img/36.jpeg);
+}
+img{
+	width: 200px;
+	height:200px;
+	margin:13px 400px 0px 400px;
+	border-radius:700px;
+}
+
+.container {
+    width: 80%;
+    height: 610px;
+    border: 2px solid ;
+    margin: 0px 0px 0px 110px;
+   background:url(../img/38.jpeg);
+}
+
+h1{
+text-align: center;
+font-family: 'Lobster', cursive;
+font-family: 'Abril Fatface', cursive;
+color: black;
+
+ }
+ a{
+ 	color:#4544b5;
+ }
+ a:hover{
+ 	color:white;
+ }
+ button{
+ 	margin:34px;
+ 	background-color:#9a807c00;
+ 	border:#79534d8c;
+ }
+
+
+
+.btn{
+	    border: 1px solid #ff000000;
+    padding: 40px;
+    margin: 30px;
+    font-size: 26px;
+    text-decoration: none;
+    font-family: 'Bowlby One SC', cursive;
+    background-color: #e3e5f900;
+    color: white;
+
+}
+.btn:hover{color: blue;
+	background-color: white;
+	}
+.btm{
+    
+    border: 1px solid #ff000003;
+    padding: 40px 60px;
+    font-size: 26px;
+    font-family: 'Bowlby One SC', cursive;
+    background-color: #00008000;
+    color: white;
+    text-decoration: none;
+    
+}
+.btm:hover{
+	background-color: white;
+	color: blue;
+	margin: 200px;
+}
+.btb{
+    
+    border: 1px solid #ff000003;
+    padding: 40px 60px;
+    font-size: 26px;
+    font-family: 'Bowlby One SC', cursive;
+    background-color: #00008000;
+    color: white;
+    text-decoration: none;
+}
+.btb:hover{
+	background-color: white;
+	color: blue;
+	margin: 200px;
+}

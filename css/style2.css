@@ -1,0 +1,27 @@
+body{
+	background:black;
+}
+h3{
+	font-size:35px;
+	text-align: center;
+	color:white;
+}
+p{
+	color:white;
+	font-size:23px;
+	text-align: center;
+	font-family: 'Fugaz One', cursive;
+font-family: 'Oleo Script', cursive;
+}
+button{
+	margin: 0px 0px 0px 600px;
+    padding: 11px;
+   border: 1px solid black;
+    border-radius: 14px;
+    background: #002bff;
+    color: white;
+}
+button:hover{
+	background-color: white;
+	color: black;
+}
